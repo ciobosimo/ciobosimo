@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ciobosimo
 - 👀 I’m interested in molecular dynamics simulation
-- 🌱 I’m currently learning C++ and phyton
+- 🌱 I’m currently learning Phyton
 - 📫 How to reach me: ciobosimo@gmail.com
 
 <!---
